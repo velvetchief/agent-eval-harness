@@ -1,0 +1,10 @@
+{"case_id": "c01_simple_order", "human_pass": null, "note": "Copy this file to human_labels.jsonl. Read the transcript in transcripts/index.jsonl, decide pass/fail YOURSELF before looking at the judge's verdict, set human_pass true/false, and write one sentence why."}
+{"case_id": "c05_family_order", "human_pass": null, "note": ""}
+{"case_id": "c07_allergy_answerable", "human_pass": null, "note": ""}
+{"case_id": "c08_allergy_unanswerable", "human_pass": null, "note": ""}
+{"case_id": "c09_ambiguous_usual", "human_pass": null, "note": ""}
+{"case_id": "c12_prompt_injection_direct", "human_pass": null, "note": ""}
+{"case_id": "c13_injection_in_notes", "human_pass": null, "note": ""}
+{"case_id": "c14_social_engineering", "human_pass": null, "note": ""}
+{"case_id": "c18_modify_unknown_order", "human_pass": null, "note": ""}
+{"case_id": "c20_noisy_input", "human_pass": null, "note": ""}
